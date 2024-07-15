@@ -1,0 +1,26 @@
+.card1{
+    background: rgb(230, 192, 167);
+    background: linear-gradient(150deg, rgb(231, 188, 160), rgb(129, 143, 220) 100%);
+}
+.card2{
+    background: rgb(230, 192, 167);
+    background: linear-gradient(150deg, rgb(231, 188, 160), rgb(129, 143, 220) 100%);
+}
+.card3{
+    background: rgb(230, 192, 167);
+    background: linear-gradient(150deg, rgb(231, 188, 160), rgb(129, 143, 220) 100%);
+}
+.card4{
+    background: rgb(230, 192, 167);
+    background: linear-gradient(150deg, rgb(231, 188, 160), rgb(129, 143, 220) 100%);
+}
+.card5{
+    background: rgb(230, 192, 167);
+    background: linear-gradient(150deg, rgb(231, 188, 160), rgb(129, 143, 220) 100%);
+}
+.heading{
+    text-align: center;
+}
+.heading{
+    color: rgb(9, 218, 176);
+}
